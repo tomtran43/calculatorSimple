@@ -13,6 +13,9 @@
 		1972F6171E55465500A4BEE6 /* calculatorSimple.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1972F6151E55465500A4BEE6 /* calculatorSimple.xcdatamodeld */; };
 		1972F6191E55465500A4BEE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1972F6181E55465500A4BEE6 /* Assets.xcassets */; };
 		1972F61C1E55465500A4BEE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1972F61A1E55465500A4BEE6 /* LaunchScreen.storyboard */; };
+		1972F6241E55567500A4BEE6 /* OperatorsButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1972F6231E55567500A4BEE6 /* OperatorsButton.swift */; };
+		1972F6261E555CEE00A4BEE6 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1972F6251E555CEE00A4BEE6 /* GradientView.swift */; };
+		1972F6281E558D0300A4BEE6 /* NumbersButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1972F6271E558D0300A4BEE6 /* NumbersButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		1972F6181E55465500A4BEE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1972F61B1E55465500A4BEE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1972F61D1E55465500A4BEE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1972F6231E55567500A4BEE6 /* OperatorsButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OperatorsButton.swift; sourceTree = "<group>"; };
+		1972F6251E555CEE00A4BEE6 /* GradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		1972F6271E558D0300A4BEE6 /* NumbersButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumbersButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				1972F60E1E55465500A4BEE6 /* AppDelegate.swift */,
 				1972F6101E55465500A4BEE6 /* ViewController.swift */,
 				1972F6121E55465500A4BEE6 /* Main.storyboard */,
+				1972F6231E55567500A4BEE6 /* OperatorsButton.swift */,
+				1972F6251E555CEE00A4BEE6 /* GradientView.swift */,
+				1972F6271E558D0300A4BEE6 /* NumbersButton.swift */,
 				1972F6181E55465500A4BEE6 /* Assets.xcassets */,
 				1972F61A1E55465500A4BEE6 /* LaunchScreen.storyboard */,
 				1972F61D1E55465500A4BEE6 /* Info.plist */,
@@ -141,7 +150,10 @@
 			files = (
 				1972F6171E55465500A4BEE6 /* calculatorSimple.xcdatamodeld in Sources */,
 				1972F6111E55465500A4BEE6 /* ViewController.swift in Sources */,
+				1972F6281E558D0300A4BEE6 /* NumbersButton.swift in Sources */,
+				1972F6261E555CEE00A4BEE6 /* GradientView.swift in Sources */,
 				1972F60F1E55465500A4BEE6 /* AppDelegate.swift in Sources */,
+				1972F6241E55567500A4BEE6 /* OperatorsButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
